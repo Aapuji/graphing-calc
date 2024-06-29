@@ -1,1 +1,1 @@
-# graphing-calc
+# Graphing Calculator Program
